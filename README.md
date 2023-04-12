@@ -1,1 +1,1 @@
-# d--lock
+# d-lock
